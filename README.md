@@ -1,4 +1,8 @@
-# Clasificación de Flores de Iris
+<img width="1075" height="614" alt="image" src="https://github.com/user-attachments/assets/9d32ef95-840d-4999-a53f-d122c7ec03db" />
+
+
+🌸 Clasificador_de_Flores_Iris
+
 
 ## Descripción del Proyecto
 Este proyecto utiliza el conjunto de datos Iris para predecir la especie de una flor basándose en sus características morfológicas. Se implementa un modelo utilizando el algoritmo K-Nearest Neighbors (KNN) y se generan visualizaciones para explorar y entender mejor los datos.
@@ -30,15 +34,15 @@ El proyecto incluye las siguientes visualizaciones:
 
 1. **Histograma de Longitud del Sépalo**: Muestra la distribución de la longitud del sépalo para cada especie, con una curva de densidad suavizada (KDE).
    
-   ![Histograma de Longitud del Sépalo](path/to/histogram.png)
+   ![Histograma de Longitud del Sépalo]
 
 2. **Gráfico de Dispersión**: Representa la relación entre la longitud y la anchura del sépalo, diferenciando las especies mediante colores y estilos.
    
-   ![Gráfico de Dispersión](path/to/scatter_plot.png)
+   ![Gráfico de Dispersión]
 
 3. **Matriz de Dispersión (Pair Plot)**: Muestra las relaciones entre todas las combinaciones de características en el conjunto de datos, ayudando a identificar patrones entre las especies.
    
-   ![Matriz de Dispersión](path/to/pair_plot.png)
+   ![Matriz de Dispersión]
 
 ## Resultados Esperados
 El script imprimirá la precisión del modelo y un informe detallado sobre la clasificación. Además, se generarán visualizaciones que ayudarán a comprender mejor los datos.
