@@ -1,4 +1,4 @@
-<img width="602" height="344" alt="image" src="https://github.com/user-attachments/assets/7eb1ea26-4481-448b-a31f-1520078f2b8a" />
+<img align="center">width="602" height="344" alt="image" src="https://github.com/user-attachments/assets/7eb1ea26-4481-448b-a31f-1520078f2b8a" />
 
 <h1 align="center">🌸 Clasificador_de_Flores_Iris</h1>
 <p align="center">Modelo de Machine Learning para clasificar flores Iris</p>
